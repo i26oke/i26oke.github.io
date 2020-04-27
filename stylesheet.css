@@ -22,8 +22,8 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  padding: 150px 0 120px 0;
+  background-image: url(https://david-pranata.com/wp-content/uploads/2014/09/my-name-is.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -144,7 +144,7 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 
 .lesson-icon {
@@ -152,10 +152,10 @@ header {
 }
 
 .lesson-icon p {
-  position: absolute;
-  top: 44%;
+  position: relative;
+  top: 0px;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .text-contents {
@@ -202,3 +202,4 @@ footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+.lesson-icon img {width:150px;}
