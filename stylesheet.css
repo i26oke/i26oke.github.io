@@ -30,7 +30,7 @@ a {
 }
 
 .top-wrapper h1 {
-  opacity: 0.7;
+  opacity: 1;
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
@@ -51,16 +51,7 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
-}
-
-.facebook {
-  background-color: #3b5998;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
+  background-color: #ffd32a;
 }
 
 .btn {
@@ -96,6 +87,9 @@ header {
 
 .header-left {
   float: left;
+  font-size: 28px;
+  color: white;
+  padding:20px 40px;
 }
 
 .header-right {
